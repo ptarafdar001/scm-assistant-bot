@@ -111,7 +111,7 @@ A RAG-based Supply Chain Management chatbot built on Flowise Cloud, answering qu
 
 1. **Hybrid search (BM25 + vector):** Pure vector search on the CSV struggles with exact supplier name lookups and numerical aggregation. A hybrid retriever would sharply improve precision on Q1/Q4-style queries.
 
-2. **Metadata filtering at upsert time:** Tag each chunk with tier, region, supplier ID, and source file. This enables pre-filtered retrieval (e.g., "only search Tier-3 rows") rather than relying on the LLM to infer context from unstructured chunks.
+2. **Vector Size and Top K:** For BAAI/bge-small-en-v1.5 Embedding model the vector size is 384 and choose Top k is 5
 
 3. **Pre-aggregation layer for analytics queries:** Questions like Q3 (total PO value by region) require aggregating across 2,000 rows — RAG is not suited for this. A lightweight SQL layer or a pre-computed summary document injected at upsert time would be far more reliable.
 
