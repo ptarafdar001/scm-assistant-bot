@@ -104,6 +104,7 @@ A RAG-based Supply Chain Management chatbot built on Flowise Cloud, answering qu
 | Chat panel — Q5 answer (part 2) | ![Q5 Answer 2](screenshots/012_q5_answer.png) |
 | Share Chatbot — Make Public ON | ![Share Public](screenshots/013_share_public.png) |
 | Public URL verified in incognito | ![Incognito Verify](screenshots/014_incognito_verify.png) |
+| Public URL verified in incognito mobile | ![Incognito Verify](screenshots/015_incognito_verify_mobile.jpeg) |
 ---
 
 ## What I Would Improve
