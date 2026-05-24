@@ -53,35 +53,34 @@ A RAG-based Supply Chain Management chatbot built on Flowise Cloud, answering qu
 
 ---
 
-## Sample Q&A (Chatbot Responses)
-
 ### Q1: Which Tier-3 suppliers have an active disruption flag, and what response level applies per policy?
 
-`screenshots/07_q1_answer.png`
+![Q1 Answer](screenshots/07_q1_answer.png)
+
 ---
 
 ### Q2: Which suppliers qualify for the annual Volume Rebate Program and how many are there?
 
-`screenshots/08_q2_answer.png`
+![Q2 Answer](screenshots/08_q2_answer.png)
+
 ---
 
 ### Q3: Which region has the highest total PO value, and does it breach the concentration limit?
 
-`screenshots/09_q3_answer.png`
+![Q3 Answer](screenshots/09_q3_answer.png)
 
 ---
 
 ### Q4: Which suppliers are on Supplier Watch List (SWL) status and what does it restrict?
 
-`screenshots/011_q5_answer.png`
-`screenshots/012_q5_answer.png`
+![Q4 Answer](screenshots/010_q4_answer.png)
 
 ---
 
 ### Q5: Which product category has the highest average defect rate and does it exceed the Tier-2 limit?
 
-`screenshots/01_docstore_csv.png`
-
+![Q5 Answer](screenshots/11_q5_answer.png)
+![Q5 Answer](screenshots/012_q5_answer.png)
 
 ---
 
