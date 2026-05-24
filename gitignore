@@ -1,0 +1,23 @@
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# API keys
+secrets.json
+credentials.json
+api_keys.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if any local Flowise)
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+venv/
