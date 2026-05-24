@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SCM Assistant — Trinamix Hiring Task (TX-JrAI-003)
 
 A RAG-based Supply Chain Management chatbot built on Flowise Cloud, answering questions about supplier performance data and governance policy.
@@ -7,7 +7,7 @@ A RAG-based Supply Chain Management chatbot built on Flowise Cloud, answering qu
 
 ## Public Chatbot URL
 
-`https://cloud.flowiseai.com/chatbot/a289048f-b77f-43e8-a551-716f7f5d8f50`
+[`https://cloud.flowiseai.com/chatbot/a289048f-b77f-43e8-a551-716f7f5d8f50`]
 
 ---
 
@@ -139,4 +139,3 @@ scm-assistant-bot/
 
 - No API keys are committed to this repository. All credentials are managed via environment variables. See 
 `.gitignore`.
-=======
