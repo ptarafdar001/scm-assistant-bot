@@ -137,7 +137,6 @@ scm-assistant-bot/
 
 ## Security Note
 
-No API keys are committed to this repository. All credentials are managed via environment variables. See `.gitignore`.
+- No API keys are committed to this repository. All credentials are managed via environment variables. See 
+`.gitignore`.
 =======
-# scm-assistant-bot
->>>>>>> 3fef948700922a94041cb5bad150af2fd84d819a
