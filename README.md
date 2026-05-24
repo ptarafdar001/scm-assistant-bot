@@ -88,19 +88,22 @@ A RAG-based Supply Chain Management chatbot built on Flowise Cloud, answering qu
 
 | Step | File |
 |------|------|
-| Document Store — CSV loaded | `screenshots/01_docstore_csv.png` |
-| Document Store — PDF loaded | `screenshots/02_docstore_pdf.png` |
-| Chunk Config A upsert result | `screenshots/03_chunk_config_a.png` |
-| Chunk Config B upsert result | `screenshots/04_chunk_config_b.png` |
-| Chatflow canvas (full view) | `screenshots/05_chatflow_canvas.png` |
-| Chat panel — Q1 answer | `screenshots/06_q1_answer.png` |
-| Chat panel — Q2 answer | `screenshots/07_q2_answer.png` |
-| Chat panel — Q3 answer | `screenshots/08_q3_answer.png` |
-| Chat panel — Q4 answer | `screenshots/09_q4_answer.png` |
-| Chat panel — Q5 answer | `screenshots/10_q5_answer.png` |
-| Share Chatbot — Make Public ON | `screenshots/11_share_public.png` |
-| Public URL verified in incognito | `screenshots/12_incognito_verify.png` |
-
+| Document Store — CSV loader config | ![CSV Loader Config](screenshots/01_docstore_csv.png) |
+| Document Store — PDF loader config | ![PDF Loader Config](screenshots/02_docstore_pdf.png) |
+| Document Store — Dashboard (both files loaded) | ![Dashboard](screenshots/03_docstore_dashboard.png) |
+| Chunk Config A — PDF upsert result (19 chunks) | ![PDF Config A](screenshots/04_1_chunk_pdf.png) |
+| Chunk Config A — PDF upsert record | ![PDF Upsert](screenshots/04_chunk_config_pdf_upsart.png) |
+| Chunk Config B — CSV chunk preview (2000 chunks) | ![CSV Config B](screenshots/05_1_chunk_csv.png) |
+| Chunk Config B — CSV upsert record (2000 added) | ![CSV Upsert](screenshots/05_chunk_config_csv_upsart.png) |
+| Chatflow canvas (full view) | ![Chatflow Canvas](screenshots/06_chatflow_canvas.png) |
+| Chat panel — Q1 answer | ![Q1 Answer](screenshots/07_q1_answer.png) |
+| Chat panel — Q2 answer | ![Q2 Answer](screenshots/08_q2_answer.png) |
+| Chat panel — Q3 answer | ![Q3 Answer](screenshots/09_q3_answer.png) |
+| Chat panel — Q4 answer | ![Q4 Answer](screenshots/010_q4_answer.png) |
+| Chat panel — Q5 answer (part 1) | ![Q5 Answer 1](screenshots/011_q5_answer.png) |
+| Chat panel — Q5 answer (part 2) | ![Q5 Answer 2](screenshots/012_q5_answer.png) |
+| Share Chatbot — Make Public ON | ![Share Public](screenshots/013_share_public.png) |
+| Public URL verified in incognito | ![Incognito Verify](screenshots/014_incognito_verify.png) |
 ---
 
 ## What I Would Improve
